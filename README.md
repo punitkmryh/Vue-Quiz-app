@@ -1,6 +1,8 @@
 # Vuejs quiz
 Sample quiz application using Vue.js
 
+![Vue-quiz-app](https://github.com/punitkmryh/Vue-Quiz-app/blob/master/public/Screen%20Shot%202020-06-04%20at%2011.15.30%20PM.png)
+
 ## Project setup
 ```
 npm install
